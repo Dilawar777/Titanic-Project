@@ -1,0 +1,31 @@
+# 🚢 Titanic Survival Prediction
+
+## 📌 Problem Statement
+
+The goal of this project is to analyze passenger data and identify factors that influenced survival on the Titanic, and build a model to predict survival.
+
+## 📊 Dataset
+
+Titanic dataset containing features like age, gender, class, and fare.
+
+## 🛠️ Tools
+
+Python, Pandas, Matplotlib, Scikit-learn
+
+## 🔍 Process
+
+* Data cleaning
+* Exploratory data analysis
+* Model building
+
+## 📈 Key Insights
+
+* Females had higher survival rates
+* First-class passengers survived more
+* Age influenced survival
+
+## 📌 Conclusion
+
+Data analysis helps uncover patterns and build predictive models for real-world problems.
+
+Add README content for Titanic project
